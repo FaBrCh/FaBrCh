@@ -22,9 +22,19 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: America/Sao_Paulo # Fuso horário do Brasil
+          theme: github_dark # Novo tema!
           
           # Plugins
           plugin_isocalendar: yes # Adiciona um calendário de contribuições
           plugin_languages: yes # Mostra as linguagens mais usadas
           plugin_languages_details: bytes-size, percentage
-          plugin_languages_limit: 8 
+          plugin_languages_limit: 8
+          plugin_organizations: yes # Mostra as organizações
+          plugin_organizations_limit: 1 # Limita a 1 organização (a mais relevante)
+          
+          # Plugins Adicionais
+          plugin_achievements: yes
+          plugin_achievements_threshold: C # Mostra conquistas de rank C ou superior
+          plugin_achievements_secrets: yes
+          plugin_achievements_display: compact
+          plugin_lines: yes

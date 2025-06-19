@@ -2,10 +2,6 @@
 <h3 align="center">Data Scientist & AI Engineer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=FaBrCh&label=Profile%20views&color=0e75b6&style=flat" alt="FaBrCh" />
-</p>
-
-<p align="center">
   <img src="https://github.com/FaBrCh/FaBrCh/blob/main/github-metrics.svg" alt="Metrics" />
 </p>
 
