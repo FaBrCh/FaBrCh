@@ -1,24 +1,12 @@
 <h1 align="center">Olá 👋, eu sou Fabrício Chaves da Costa</h1>
-<h3 align="center">Data Scientist | Estatística UFMG | Real Estate AI @ Morada.ai</h3>
+<h3 align="center">Data Scientist & AI Engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=FaBrCh&label=Profile%20views&color=0e75b6&style=flat" alt="FaBrCh" />
 </p>
 
-### 📊 Minhas Estatísticas no GitHub
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/FaBrCh/FaBrCh/main/profile-summary-card-output/dracula/0-profile-details.svg" alt="Profile Details"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/FaBrCh/FaBrCh/main/profile-summary-card-output/dracula/1-repos-per-language.svg" alt="Top Languages by Repo"/>
-  <img src="https://raw.githubusercontent.com/FaBrCh/FaBrCh/main/profile-summary-card-output/dracula/2-most-commit-language.svg" alt="Top Languages by Commits"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/FaBrCh/FaBrCh/main/profile-summary-card-output/dracula/3-stats.svg" alt="GitHub Stats"/>
-  <img src="https://raw.githubusercontent.com/FaBrCh/FaBrCh/main/profile-summary-card-output/dracula/4-productive-time.svg" alt="Productive Time"/>
+  <img src="https://github.com/FaBrCh/FaBrCh/blob/main/github-metrics.svg" alt="Metrics" />
 </p>
 
 ---

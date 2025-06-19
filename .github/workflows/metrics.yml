@@ -1,0 +1,30 @@
+name: Metrics
+
+on:
+  # Executa a cada 24 horas e toda vez que você fizer um push para a main
+  schedule: [{cron: "0 0 * * *"}]
+  workflow_dispatch:
+  push: {branches: ["main"]}
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Seu token
+          token: ${{ secrets.PROFILE_CARDS_TOKEN }}
+
+          # Opções
+          user: FaBrCh
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: America/Sao_Paulo # Fuso horário do Brasil
+          
+          # Plugins
+          plugin_isocalendar: yes # Adiciona um calendário de contribuições
+          plugin_languages: yes # Mostra as linguagens mais usadas
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 8 
