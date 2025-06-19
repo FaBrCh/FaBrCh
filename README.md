@@ -9,14 +9,16 @@
 
 ### 👨‍💻 Sobre mim
 
-Sou estudante de **Estatística** na **Universidade Federal de Minas Gerais (UFMG)**, apaixonado por Inteligência Artificial e Ciência de Dados. Meu objetivo é transformar dados em insights valiosos e criar soluções inteligentes que gerem impacto real.
+Sou estudante de **Estatística** na **Universidade Federal de Minas Gerais (UFMG)**, apaixonado por Inteligência Artificial e Ciência de Dados. Meu objetivo é transformar dados em insights valiosos e criar soluções inteligentes que gerem impacto real no mercado.
 
-- 🎓 Estudante de **Estatística** na **UFMG**
-- 🔬 Atualmente trabalhando na **@morada-ai**
+- 🎓 **Estudante de Estatística** na **UFMG**
+- 🔬 **Data Scientist** na **@morada-ai** (Real Estate + Generative AI)
+- 🤖 Participante ativo da comunidade **BH AI** (Belo Horizonte AI Community)
 - 🌱 Aprofundando conhecimentos em **Deep Learning, MLOps e Mineração de Dados**
+- 🏠 Especialização em **Real Estate Analytics** e **Generative AI**
 - 👯 Procuro colaborar em **projetos de IA open-source e desafios de Data Science**
 - 💬 Me pergunte sobre: **Python, R, SQL, Machine Learning, Estatística e D&D** 🎲
-- 📍 Localização: **Brasil** 🇧🇷
+- 📍 **Belo Horizonte, MG - Brasil** 🇧🇷
 - 📫 Como me encontrar: **LinkedIn** ou através do GitHub
 
 ---
@@ -60,10 +62,17 @@ Aqui estão algumas das tecnologias e ferramentas com as quais eu trabalho:
 
 ### 🎯 Projetos em Destaque
 
+- 🏠 **Real Estate AI Solutions**: Projetos de IA aplicados ao mercado imobiliário na **Morada.ai**
 - 🎲 **Simulador de Combate D&D**: Simulador de combate para uma versão simplificada do D&D 5a edição
 - 📊 **MD-TP**: Trabalho prático de Mineração de Dados - UFMG
 - 🤖 **Chatbot**: Projeto de chatbot desenvolvido em Python
 - 📈 **Laboratórios de Estatística**: Projetos acadêmicos focados em análise estatística
+
+### 🌟 Experiências e Comunidades
+
+- 🤝 **BH AI Community**: Participação ativa em meetups e discussões sobre IA em Belo Horizonte
+- 🏢 **Morada.ai**: Desenvolvimento de soluções de IA para o mercado imobiliário
+- 📚 **UFMG**: Formação sólida em Estatística com foco em aplicações práticas
 
 ---
 
@@ -82,4 +91,10 @@ Aqui estão algumas das tecnologias e ferramentas com as quais eu trabalho:
 
 <p align="center">
   <i>⚡ "Transformando dados em conhecimento, uma análise por vez!" ⚡</i>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🏠_Real_Estate-AI_Solutions-blue?style=for-the-badge" alt="Real Estate AI">
+  <img src="https://img.shields.io/badge/🤖_BH_AI-Community_Member-green?style=for-the-badge" alt="BH AI Community">
+  <img src="https://img.shields.io/badge/📊_UFMG-Statistics_Student-purple?style=for-the-badge" alt="UFMG Statistics">
 </p> 
