@@ -55,9 +55,9 @@ Aqui estão algumas das tecnologias e ferramentas com as quais eu trabalho:
 ### 📊 Minhas Estatísticas no GitHub
 
 <p align="center">
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=FaBrCh&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub do Fabrício" />
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=FaBrCh&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do GitHub do Fabrício" />
   <br/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaBrCh&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas pelo Fabrício"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaBrCh&layout=compact&langs_count=8&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" alt="Linguagens mais usadas pelo Fabrício"/>
 </p>
 
 ### 🎯 Projetos em Destaque
